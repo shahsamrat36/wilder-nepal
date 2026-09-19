@@ -1,8 +1,11 @@
+Here is the complete JSON with a **third rafting service** added at **NRs. 2,000 per session**, with a **3-hour duration**.
+
+```
 {
   "company": {
     "name": "Wilder Nepal",
     "tagline": "Experience Pokhara from the Water",
-    "subTagline": "Premium kayaking and stand-up paddleboarding on the serene waters of Fewa Lake.",
+    "subTagline": "Premium kayaking, stand-up paddleboarding, and rafting adventures in Nepal.",
     "whatsappNumber": "9865388069",
     "email": "shahdilip.com@gmail.com",
     "location": "Lakeside, Pokhara, Nepal",
@@ -14,13 +17,13 @@
   },
   "hero": {
     "headline": "Find Your Wild on Fewa Lake",
-    "subheadline": "Guided kayaking and stand-up paddleboarding in the heart of Pokhara. No experience needed — just a sense of adventure.",
+    "subheadline": "Guided kayaking, stand-up paddleboarding, and rafting adventures in the heart of Pokhara. No experience needed — just a sense of adventure.",
     "ctaLabel": "Book Now on WhatsApp",
     "backgroundImage": "/landing-page.jpg"
   },
   "about": {
     "title": "Born on the Water, Built for Adventurers",
-    "body": "Wilder Nepal was founded by passionate paddlers who fell in love with the mirror-like calm of Fewa Lake beneath the Annapurna range. We believe adventure should be accessible, safe, and unforgettable. Every session is led by certified guides with deep local knowledge, modern safety gear, and a commitment to leaving Fewa Lake cleaner than we found it.",
+    "body": "Wilder Nepal was founded by passionate paddlers who fell in love with the mirror-like calm of Fewa Lake beneath the Annapurna range. We believe adventure should be accessible, safe, and unforgettable. Every session is led by certified guides with deep local knowledge, modern safety gear, and a commitment to leaving Nepal's rivers and lakes cleaner than we found them.",
     "stats": [
       {
         "value": "1000+",
@@ -36,7 +39,7 @@
       },
       {
         "value": "3+",
-        "label": "Years on the Lake"
+        "label": "Years on the Water"
       }
     ],
     "image": "/about-image.jpg"
@@ -111,6 +114,33 @@
         "Certified guide for the full session"
       ],
       "whatsappMessage": "Hi Wilder Nepal! I'm interested in booking a Stand Up Paddleboarding (SUP) session."
+    },
+    {
+      "slug": "rafting",
+      "title": "White Water Rafting",
+      "shortDescription": "Take on Nepal's rushing rivers with an exciting guided rafting adventure surrounded by spectacular Himalayan scenery.",
+      "longDescription": "Get your adrenaline flowing with an unforgettable white water rafting adventure in Nepal. Our guided rafting sessions combine exciting rapids, stunning natural scenery, and professional safety support for an experience that's perfect for adventure seekers. Whether you're rafting with friends, family, or fellow travellers, our experienced guides will take you through the essentials before you hit the river.",
+      "price": "NRs. 2,000 / session",
+      "duration": "3 Hours",
+      "difficulty": "Intermediate",
+      "bestTime": "Morning",
+      "heroImage": "/rafting-image.jpg",
+      "images": [
+        "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/2404380/pexels-photo-2404380.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?auto=compress&cs=tinysrgb&w=800",
+        "https://images.pexels.com/photos/1631677/pexels-photo-1631677.jpeg?auto=compress&cs=tinysrgb&w=800"
+      ],
+      "includes": [
+        "Professional rafting equipment",
+        "Certified life jacket and safety helmet",
+        "Safety briefing before the session",
+        "Professional river guide",
+        "Paddle and rafting equipment",
+        "Basic rafting technique and safety instruction"
+      ],
+      "whatsappMessage": "Hi Wilder Nepal! I'm interested in booking a White Water Rafting session for 3 hours."
     }
   ]
 }
+```
