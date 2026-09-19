@@ -112,32 +112,6 @@
         "Certified guide for the full session"
       ],
       "whatsappMessage": "Hi Wilder Nepal! I'm interested in booking a Stand Up Paddleboarding (SUP) session."
-    },
-    {
-      "slug": "rafting",
-      "title": "White Water Rafting",
-      "shortDescription": "Take on Nepal's rushing rivers with an exciting guided rafting adventure surrounded by spectacular Himalayan scenery.",
-      "longDescription": "Get your adrenaline flowing with an unforgettable white water rafting adventure in Nepal. Our guided rafting sessions combine exciting rapids, stunning natural scenery, and professional safety support for an experience that's perfect for adventure seekers. Whether you're rafting with friends, family, or fellow travellers, our experienced guides will take you through the essentials before you hit the river.",
-      "price": "NRs. 2,000 / session",
-      "duration": "3 Hours",
-      "difficulty": "Intermediate",
-      "bestTime": "Morning",
-      "heroImage": "/rafting-image.jpg",
-      "images": [
-        "https://images.pexels.com/photos/2404370/pexels-photo-2404370.jpeg?auto=compress&cs=tinysrgb&w=800",
-        "https://images.pexels.com/photos/2404380/pexels-photo-2404380.jpeg?auto=compress&cs=tinysrgb&w=800",
-        "https://images.pexels.com/photos/2387873/pexels-photo-2387873.jpeg?auto=compress&cs=tinysrgb&w=800",
-        "https://images.pexels.com/photos/1631677/pexels-photo-1631677.jpeg?auto=compress&cs=tinysrgb&w=800"
-      ],
-      "includes": [
-        "Professional rafting equipment",
-        "Certified life jacket and safety helmet",
-        "Safety briefing before the session",
-        "Professional river guide",
-        "Paddle and rafting equipment",
-        "Basic rafting technique and safety instruction"
-      ],
-      "whatsappMessage": "Hi Wilder Nepal! I'm interested in booking a White Water Rafting session for 3 hours."
     }
   ]
 }
