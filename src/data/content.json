@@ -1,3 +1,6 @@
+Absolutely — here is the **full JSON code** with the reviews changed to Nepali names:
+
+```
 {
   "company": {
     "name": "Wilder Nepal",
@@ -22,29 +25,41 @@
     "title": "Born on the Water, Built for Adventurers",
     "body": "Wilder Nepal was founded by passionate paddlers who fell in love with the mirror-like calm of Fewa Lake beneath the Annapurna range. We believe adventure should be accessible, safe, and unforgettable. Every session is led by certified guides with deep local knowledge, modern safety gear, and a commitment to leaving Fewa Lake cleaner than we found it.",
     "stats": [
-      { "value": "1000+", "label": "Happy Paddlers" },
-      { "value": "5★", "label": "Average Rating" },
-      { "value": "100%", "label": "Safety Record" },
-      { "value": "3+", "label": "Years on the Lake" }
+      {
+        "value": "1000+",
+        "label": "Happy Paddlers"
+      },
+      {
+        "value": "5★",
+        "label": "Average Rating"
+      },
+      {
+        "value": "100%",
+        "label": "Safety Record"
+      },
+      {
+        "value": "3+",
+        "label": "Years on the Lake"
+      }
     ],
     "image": "/about-image.jpg"
   },
   "testimonials": [
     {
-      "name": "Sarah M.",
-      "country": "United Kingdom",
+      "name": "Sushma Gurung",
+      "country": "Nepal",
       "text": "Absolutely magical. Paddling with the Annapurna range reflected in the water is something I'll never forget. The guides were brilliant and the gear was top quality.",
       "rating": 5
     },
     {
-      "name": "Lucas B.",
-      "country": "Germany",
+      "name": "Aayush Thapa",
+      "country": "Nepal",
       "text": "I'd never tried kayaking before and the team made me feel completely safe. Within 20 minutes I was gliding around on my own. Highly recommend!",
       "rating": 5
     },
     {
-      "name": "Priya S.",
-      "country": "India",
+      "name": "Prakriti Shrestha",
+      "country": "Nepal",
       "text": "The SUP session was the highlight of my Pokhara trip. Easy to book over WhatsApp, great price, and an incredible experience. Will be back.",
       "rating": 5
     }
@@ -102,3 +117,4 @@
     }
   ]
 }
+```
